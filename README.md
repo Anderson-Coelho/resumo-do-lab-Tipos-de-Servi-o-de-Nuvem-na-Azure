@@ -1,0 +1,1 @@
+# resumo-do-lab-Tipos-de-Servi-o-de-Nuvem-na-Azure
