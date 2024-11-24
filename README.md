@@ -1,4 +1,4 @@
-# resumo-do-lab-Tipos-de-Servi-o-de-Nuvem-na-Azure
+# resumo-do-lab-Tipos-de-Serviço-de-Nuvem-na-Azure
 Este repositório contém o resumo das lições aprendidas durante o desenvolvimento de aula e laboratório na DIO
 
 # Tipos de Servico de Nuvem na Azure
